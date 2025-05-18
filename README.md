@@ -2,6 +2,9 @@ Weather Social Poster
 A WordPress plugin that posts weather updates from clientraw.txt to Bluesky and Mastodon, with Bluesky interaction display.
 Features
 
+Donate link: https://mm0zif.radio/current/fundraising-campaign/
+
+
 Posts weather updates (temperature, humidity, wind) to Bluesky and Mastodon.
 Displays Bluesky post interactions via shortcode [weather_bluesky_feed].
 Configurable posting schedules: Bluesky (specific times or interval), Mastodon (hourly, 2-hourly, 6-hourly).
